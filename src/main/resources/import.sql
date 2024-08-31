@@ -1,0 +1,1 @@
+--INSERT INTO users (name,email,password,role_id) VALUES ('Zeca urubu' , 'zec4urubu44@gmail.com' , 'zequinha123',1)
